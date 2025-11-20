@@ -2,12 +2,14 @@
 <br>
 <br>
 
+<!-- Logo -->
 <div align="center">
   <img align="center" height="150" src="https://imgur.com/B7icj8u.png"/>
 </div>
 
+<!-- Presentation -->
 <div align="center">
-  
+
   <b>`プ ロ グ ラ マ`</b>
   <samp>
       <br>
@@ -15,46 +17,72 @@
   </samp>
 </div>
 
+<!-- Presentation - Typing -->
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=28&color=F4CD7C&center=true&vCenter=true&lines=I%60m+from+Brazil;Information+Technology+student;Enthusiast+of+design+and+development;Driven+by+creativity%2C+inspired+by+technology;Be+welcome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=28&color=F4CD7C&center=true&vCenter=true&lines=I%60m+from+Brazil;Information+Technology+student;Enthusiast+of+design+and+development;Driven+by+creativity;Inspired+by+technology;Be+welcome!" alt="Typing SVG" />
 </div>
 
 <br>
 
+<!-- Presentation - Objective -->
 <div align="center">
-  <img src="https://img.shields.io/badge/ramon_※-63783D" />
+  <samp>
+     <b>※ Seeking a tech opportunity to grow my skills and contribute to real-world projects ※</b>
+  </samp>
 </div>
-      
+
+<br>
+
+<!-- Presentation - Shield -->
+<div align="center">
+  <img src="https://img.shields.io/badge/ramon_⚔-63783D" />
+</div>
+
 <br>
 <br>
+<br>
+
+<!--status-->
+<div align="center" width="100%">
+  <h3>Progress Dashboard</h3>
+</div>
 
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=mrgalana&show_icons=true&count_private=true&rank_icon=github&theme=gruvbox&font=Iosevka"/>
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgalana&layout=compact&font=Iosevka&langs_count=16&theme=gruvbox"/>
+  
   <br>
   <br>
+  
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrgalana&theme=gruvbox"/>
 </div>
 
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  
-</div>
+<br>
+<br>
+
+<!-- Skills: Programming Languages -->
+  <div align="center" style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
+
+<br>
+
+  <!-- Skills: Tools & Frameworks -->
+  <div align="center" style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  </div>
 
 <br>
 <br>
+
+<!-- Image -->
+<div align="center">
+  <img src="https://imgur.com/uWDsR4n.png" width="250px" />
+</div>
 
 <details align="center">  
   <summary>
