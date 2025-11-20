@@ -19,7 +19,7 @@
 
 <!-- Presentation - Typing -->
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=28&color=F4CD7C&center=true&vCenter=true&lines=I%60m+from+Brazil;Information+Technology+student;Enthusiast+of+design+and+development;Driven+by+creativity;Inspired+by+technology;Be+welcome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=30&color=F4CD7C&center=true&vCenter=true&lines=I%60m+from+Brazil;Information+Technology+student;Enthusiast+of+design+and+development;Driven+by+creativity;Inspired+by+technology;Be+welcome!" alt="Typing SVG" />
 </div>
 
 <br>
@@ -84,6 +84,7 @@
   <img src="https://imgur.com/uWDsR4n.png" width="250px" />
 </div>
 
+<!-- Hidden Summary -->
 <details align="center">  
   <summary>
       <samp>
@@ -97,6 +98,7 @@
 
 <br>
 
+<!-- Social Midia -->
 <div align="center">
   <samp>
     <b>
@@ -105,7 +107,7 @@
   </samp>
   <br>
   <br>
-
+  
   [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:ramongalanaluglio@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=fff)](https://instagram.com/ramon_galana)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/ramon-galana-luglio-b1a2931a0/)
