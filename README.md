@@ -122,8 +122,9 @@
 
 <br>
 
+<!-- Footer - Shield -->
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=mrgalana&style=flat-square&color=755b25" /></p> 
+  <img src="https://img.shields.io/badge/ramon_galana-63783D" />
 </div>
 
 <br>
